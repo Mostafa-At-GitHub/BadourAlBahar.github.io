@@ -165,7 +165,7 @@ p.title {
 	font-size: 1.7rem;
 	line-height: 1.5;
 	color: #313131;
-	margin-bottom: 1rem;
+	margin-bottom: .7rem;
 	font-style: normal;
 	text-rendering: optimizeLegibility;
 }
@@ -183,7 +183,15 @@ p.venue {
 	font-size: 1.5rem;
 	line-height: 1.8;
 	color: #7d7d7d;
-	margin-bottom: 2rem;
+	margin-bottom: 0.5rem;
+}
+
+p.info {
+	font-family: "lora-regular", serif;
+	font-size: 1.5rem;
+	line-height: 1.8;
+	color: #313131;
+	margin-bottom: 0.5rem;
 }
 
 @media only screen and (max-width:768px) {
